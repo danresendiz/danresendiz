@@ -2,7 +2,7 @@
 ### Medical Computer Vision & Deep Learning Engineer | C++ & Python Software Architect
 
 📍 CST Timezone (Remote B2B / Independent Contractor)  
-🎓 M.Sc. in Advanced Technology (*Cum Laude*) | Ph.D. Researcher in Medical Computer Vision  
+🎓 M.Sc. in Advanced Technology  | Ph.D. Researcher in Medical Computer Vision  
 🇨🇭 Former Visiting Researcher @ **ARTORG Center (University of Bern, Switzerland)**  
 📄 Published Author in *MDPI Diagnostics* (2026)
 
